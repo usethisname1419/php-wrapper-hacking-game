@@ -45,16 +45,6 @@ Contains 3 challenging levels:
 
 This game is designed for educational purposes only. Do not use these techniques on systems you don't own or have permission to test.
 
-## Flags
+## Contact/Notes
 
-### Practice Flags
-- Flag 1: CTF{LFI_Welcome_Flag_123}
-- Flag 2: CTF{LFI_About_Flag_456}
-- Flag 3: Use php://filter to find
-- Flag 4: CTF{LFI_Config_Flag_789}
-- Flag 5: CTF{LFI_Hidden_Dir_Flag_101}
-
-### Game Flags
-- Game Flag 1: CTF{LFI_Game_Level1_Flag}
-- Game Flag 2: CTF{LFI_Game_Level2_Flag}
-- Game Flag 3: CTF{LFI_Game_Level3_Flag}
+Any suggestions, bug reports or comments are welcome. Contact d.johnston@lthcybersecurity
