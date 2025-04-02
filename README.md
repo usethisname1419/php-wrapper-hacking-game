@@ -12,9 +12,9 @@ A Local File Inclusion (LFI) practice game designed to help learn about PHP file
 
 1. Clone or download this repository
 2. Navigate to the `lfi_game` directory
-3. Run the Python launcher:
+3. Run the launcher:
    ```bash
-   python launch.py
+   ./start.sh
    ```
 4. The game will open in your default browser at http://localhost:5555
 
