@@ -1,0 +1,1 @@
+CTF{LFI_Wrapper_Flag_789}

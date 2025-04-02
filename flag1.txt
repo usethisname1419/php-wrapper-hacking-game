@@ -1,0 +1,1 @@
+CTF{LFI_Welcome_Flag_123}
